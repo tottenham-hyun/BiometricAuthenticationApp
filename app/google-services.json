@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294335810524",
+    "project_id": "robloxmain-6f33b",
+    "storage_bucket": "robloxmain-6f33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294335810524:android:c60e08ab6e6d1523091d19",
+        "android_client_info": {
+          "package_name": "com.example.biometricauthenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294335810524-h1jgimuhcvnrqsvp4hgonkfljqrvu98f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qWQTEgfv5FC7HgXjFB4KgrjnOCx52ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294335810524-h1jgimuhcvnrqsvp4hgonkfljqrvu98f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
